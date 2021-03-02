@@ -38,7 +38,9 @@ python evaluate_cloudAAE_ycbv.py --trained_model trained_network/20200908-204328
 * The coordinate is the **object coordinate**, object segment is viewed in the **camera coordinate**
 <p float="center">
   <img src="/figure/0.gif" width="150" />
+  <img src="/figure/0_recon.gif" width="150" />
   <img src="/figure/14.gif" width="150" />
+  <img src="/figure/14_recon.gif" width="150" />
 </p>
 
 # Train a network
