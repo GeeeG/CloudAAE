@@ -1,0 +1,183 @@
+{'gpu': 0, 'model': 'pointnet_ycb_23_decoder_4', 'num_point': 256, 'log_dir': 'log', 'total_num_point': 1024}
+{'max_epoch': 90, 'optimizer': 'adam'}
+{'decay_step': 30000, 'learning_rate': 0.0008, 'batch_size': 128, 'decay_rate': 0.7, 'k_neighbor': 10, 'momentum': 0.9, 'trans_tol': 0.1}
+**** EPOCH 000 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:26.236721
+**** EPOCH 001 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:54.156186
+**** EPOCH 002 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:03.560407
+**** EPOCH 003 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:02.162896
+**** EPOCH 004 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:07.178551
+**** EPOCH 005 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:49.834365
+**** EPOCH 006 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:42.394252
+**** EPOCH 007 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:13.798746
+**** EPOCH 008 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:52.075246
+**** EPOCH 009 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:13.191053
+**** EPOCH 010 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:21.003588
+**** EPOCH 011 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:04.307195
+**** EPOCH 012 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:25.037288
+**** EPOCH 013 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:55.502713
+**** EPOCH 014 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:52.301409
+**** EPOCH 015 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:04.542933
+**** EPOCH 016 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:58.457967
+**** EPOCH 017 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:06.720663
+**** EPOCH 018 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:04.356591
+**** EPOCH 019 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:03.801023
+**** EPOCH 020 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:52.023379
+**** EPOCH 021 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:49.123511
+**** EPOCH 022 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:50.573704
+**** EPOCH 023 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:44.721662
+**** EPOCH 024 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:42.073052
+**** EPOCH 025 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:34.893017
+**** EPOCH 026 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:27.116743
+**** EPOCH 027 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:12.465518
+**** EPOCH 028 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:12.743797
+**** EPOCH 029 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:40:43.909729
+**** EPOCH 030 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:40:38.676697
+**** EPOCH 031 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:40:43.021666
+**** EPOCH 032 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:16.047421
+**** EPOCH 033 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:44.518904
+**** EPOCH 034 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:42.270392
+**** EPOCH 035 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:40:56.861109
+**** EPOCH 036 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:03.322245
+**** EPOCH 037 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:04.347467
+**** EPOCH 038 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:06.339993
+**** EPOCH 039 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:40:56.560371
+**** EPOCH 040 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:07.636278
+**** EPOCH 041 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:00.885744
+**** EPOCH 042 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:03.193558
+**** EPOCH 043 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:45.220369
+**** EPOCH 044 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:47.865980
+**** EPOCH 045 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:52.903991
+**** EPOCH 046 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:49.737176
+**** EPOCH 047 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:45.318039
+**** EPOCH 048 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:50.595325
+**** EPOCH 049 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:01.270048
+**** EPOCH 050 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:50.312730
+**** EPOCH 051 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:53.801414
+**** EPOCH 052 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:40.118008
+**** EPOCH 053 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:45.758196
+**** EPOCH 054 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:39.157890
+**** EPOCH 055 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:45.486424
+**** EPOCH 056 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:45.395780
+**** EPOCH 057 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:35.207973
+**** EPOCH 058 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:58.904597
+**** EPOCH 059 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:29.949036
+**** EPOCH 060 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:53.443418
+**** EPOCH 061 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:13.581137
+**** EPOCH 062 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:45.632909
+**** EPOCH 063 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:07.786913
+**** EPOCH 064 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:13.216249
+**** EPOCH 065 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:12.339074
+**** EPOCH 066 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:41:14.067642
+**** EPOCH 067 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:19.054872
+**** EPOCH 068 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:23.302619
+**** EPOCH 069 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:07.110439
+**** EPOCH 070 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:57.075167
+**** EPOCH 071 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:01.246622
+**** EPOCH 072 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:57.594575
+**** EPOCH 073 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:04.620437
+**** EPOCH 074 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:59.975681
+**** EPOCH 075 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:44:11.823216
+**** EPOCH 076 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:55.195689
+**** EPOCH 077 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:45:04.690128
+**** EPOCH 078 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:45:38.802108
+**** EPOCH 079 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:37.276118
+**** EPOCH 080 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:15.565523
+**** EPOCH 081 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:05.712316
+**** EPOCH 082 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:11.170079
+**** EPOCH 083 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:56.151604
+**** EPOCH 084 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:59.578032
+**** EPOCH 085 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:54.598481
+**** EPOCH 086 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:57.462150
+**** EPOCH 087 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:51.846647
+**** EPOCH 088 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:42:52.340814
+**** EPOCH 089 ****
+Current epoch Time elapsed (hh:mm:ss.ms) 0:43:01.300255
