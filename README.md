@@ -44,8 +44,14 @@ python evaluate_cloudAAE_ycbv.py --trained_model trained_network/20200908-204328
 </p>
 
 # Train a network
-1. Training data is created syntheticly using 3D object model and 6D poses.
+1. Training data is created synthetically using 3D object model and 6D poses.
 * The 6D pose and class id of target object are in **ycb_video_data_tfRecords/train_syn/**
+* The data synthesis pipeline takes the target 3D object model and creates a segment of the object in the desired 6D pose. 
+Below is two examples of synthetic segment (red), two real segments (red) are also shown for comparison.
+<p float="center">
+  <img src="/figure/syn_and_real_seg_lamp.gif" width="250" />
+  <img src="/figure/syn_and_real_seg_phone.gif" width="250" />
+</p>
 2. Run script
 ```
 python train_cloudAAE_ycbv.py
