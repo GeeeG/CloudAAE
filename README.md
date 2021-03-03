@@ -37,10 +37,10 @@ python evaluate_cloudAAE_ycbv.py --trained_model trained_network/20200908-204328
 * If you turn on visualization with **b_visual=True**, you will see the following displays which are partially observed point cloud segments (red) overlaid with object model (green) with pose estimates. The reconstructed point cloud is also presented (blue).
 * The coordinate is the **object coordinate**, object segment is viewed in the **camera coordinate**
 <p float="center">
-  <img src="/figure/0.gif" width="150" />
-  <img src="/figure/0_recon.gif" width="150" />
-  <img src="/figure/14.gif" width="150" />
-  <img src="/figure/14_recon.gif" width="150" />
+  <img src="/figure/0.gif" width="200" />
+  <img src="/figure/0_recon.gif" width="200" />
+  <img src="/figure/14.gif" width="200" />
+  <img src="/figure/14_recon.gif" width="200" />
 </p>
 
 # Train a network
