@@ -24,7 +24,7 @@ Synthesis on Point Clouds"
 1. Testing data in **tfrecord** format is available
 * Download [zip file](https://drive.google.com/file/d/15ywcpuKVtWXzENPOaec3ZNlHPryeeiHw/view?usp=sharing)
 * Unzip and place all files in **ycb_video_data_tfRecords/test_real/**
-1. After activate tensorflow
+2. After activate tensorflow
 ```
 python evaluate_cloudAAE_ycbv.py --trained_model trained_network/20200908-204328/model.ckpt --batch_size 1 --target_cls 0
 ```
@@ -52,10 +52,12 @@ Below is two examples of synthetic segment (red), two real segments (red) are al
   <img src="/figure/syn_and_real_seg_lamp.gif" width="400" />
   <img src="/figure/syn_and_real_seg_phone.gif" width="400" />
 </p>
+
 2. Run script
 ```
 python train_cloudAAE_ycbv.py
 ```
+
 3. Log files and trained model is store in **log**
 
 # Citation
